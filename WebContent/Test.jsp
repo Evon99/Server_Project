@@ -9,7 +9,7 @@
 <body>
 // 깃 연동 Test2
 <<<<<<< HEAD
-//심준현 fsddsa
+//심준현 
 //심준현 test
 // 11-08 test5asd
 </body>
